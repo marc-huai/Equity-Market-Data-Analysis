@@ -1,2 +1,2 @@
 # Equity-Market-Data-Analysis
-![Drawio.drawio.png](Diagram for Equity Market Analysis)
+![Diagram for Equity Market Analysis](Drawio.drawio.png)
